@@ -1,0 +1,6 @@
+ul.menu li a.disabled {
+	color: #bdc3c7;
+}
+ul.menu li a.disabled:hover {
+	text-shadow: none;
+}
